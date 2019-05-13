@@ -1,3 +1,5 @@
+# лучше качать с F-Droid, там без аналитики
+https://f-droid.org/packages/be.mygod.vpnhotspot/
 # VPN Hotspot
 
 [![CircleCI](https://circleci.com/gh/Mygod/VPNHotspot.svg?style=shield)](https://circleci.com/gh/Mygod/VPNHotspot)
